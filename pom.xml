@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <packaging>jar</packaging>
-    <groupId>org.fhir</groupId>
+    <groupId>au.csiro.pathling</groupId>
     <artifactId>ucum</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
 
     <name>Ucum-java</name>
     <description>FHIR Java library providing UCUM Services</description>
